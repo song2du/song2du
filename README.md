@@ -1,4 +1,5 @@
-## Hi there 👋
+## I'm Yidu Song
+
 
 <!--
 **song2du/song2du** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
