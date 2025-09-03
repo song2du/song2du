@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello! I'm Yidu Song </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I want to become an AI engineer and delve into the field of Social Computing.</br></li></li>Ultimately, I hope to contribute to improving the quality of human life through AI. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">I am studying with the vision of 'AI for Psychology'.</br></li></li>My current goal is to develop a psychology-based negotiation agent.</div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
